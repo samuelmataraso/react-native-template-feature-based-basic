@@ -32,7 +32,7 @@
 
 Este projeto visa a criação de um template baseado em Feature-Based para um Aplicação Mobile Escalável que possa ser utilizado no momento de criação de projetos utilizando React Native, visto que o processo de instalação e configuração das libs no início de um projeto podem gerar certa complexidade e muitas vezes até erros que atrasam o processo, atrapalhando assim o fluxo de desenvolvimento.
 
-Esse template foi baseado no no [Template Rocketseat Advanced](https://github.com/Rocketseat/react-native-template-rocketseat-basic) da Rocketseat.
+Esse template foi baseado no no [Template Rocketseat Basic](https://github.com/Rocketseat/react-native-template-rocketseat-basic) da Rocketseat.
 
 ### Feito Com
 
